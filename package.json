@@ -1,0 +1,23 @@
+{
+  "name": "starwars-express",
+  "version": "1.0.0",
+  "description": "heroku app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madeline1093/starwars-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madeline1093/starwars-express/issues"
+  },
+  "homepage": "https://github.com/madeline1093/starwars-express#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  }
+}
